@@ -1,2 +1,8 @@
 # Hi, I'm Marcos 
-## Python projects
+## Linux 
+
+## Networking
+
+## Python
+
+## AWS
